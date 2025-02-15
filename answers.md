@@ -1,23 +1,23 @@
 1. Challenge 1:
-  - Answer: 
-  - Explanation: 
+  - Answer: b
+  - Explanation: the output will be both xyz, because you can over write on global out function
 
 
 2. Challenge 2:
-  - Answer:
-  - Explanation:
+  - Answer: c
+  - Explanation:first it will overwrite than it will give the original
 
 
 3. Challenge 3:
-  - Answer:
-  - Explanation:
+  - Answer:c
+  - Explanation:you can call function before the line you made the function
 
 
 4. Challenge 4:
-  - Answer:
-  - Explanation:
+  - Answer:a
+  - Explanation:you cant change a
 
 
 5. Bonus - Challenge 5:
-  - Answer:
+  - Answer:c
   - Explanation:
